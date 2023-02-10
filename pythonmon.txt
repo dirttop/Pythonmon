@@ -1,0 +1,10 @@
+001,Mogot,Bug,Common, (`･ω･´)
+002,Shinok,Rock,Common, ૮ ˘ﻌ˘ ა
+003,Koat,Psychic,Common, /ᐠ｡ꞈ｡ᐟ\
+004,Butter,Bug,Common, εїз
+005,Meesh,Flying,Uncommon, ⎛⎝(•ⱅ •)⎠⎞
+006,Gushka,Water,Uncommon, ⊂(Θ ⌒ Θ)⊃
+007,Baar,Normal,Uncommon, ʕ•́ᴥ•̀ʔ
+008,Buzzlet,Bug/Flying,Rare, エェ{•д•}ェエ
+009,Voda,Water, Rare,∀╭•̀ﮧ •́╮∀
+010,GoldBaar,Normal,Legendary, ꃪʕ◉ꈊ◉ʔꃪ
